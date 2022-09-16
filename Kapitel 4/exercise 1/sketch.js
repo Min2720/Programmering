@@ -27,5 +27,5 @@ if (x + d / 2 >= width) {
   y -=a;
   x-=a;
 }
-
+console.log('INDIAN ASLLLLLLLLLLl');
 }
